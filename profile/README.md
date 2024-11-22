@@ -4,6 +4,16 @@
 
 We aim to work with you to draw the file type icon/software main icon of commonly used software to ensure that it matches the visual style of Windows 11
 
+## Progects
+
+### ThemeCenter
+
+https://themecenter.github.io/#/
+
+### Apple Design Wiki
+
+https://github.com/Apple-Design-Wiki/Apple-Design-Wiki.github.io
+
 ## Location
 
 https://github.com/MicaUI/WindowsIconCustomization
